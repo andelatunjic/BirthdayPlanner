@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 22, 2021, 8:46:42 AM
+    Author     : Andja
+*/
+
+li a {
+  font-size: 25px;
+}
+body{
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 50px;
+}
+h1{
+    font-size: 85px;
+}
+h2{
+    font-size: 35px;
+}
+p, label, legend, form, input{
+    font-size: 25px;
+    
+}
