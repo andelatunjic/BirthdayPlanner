@@ -1,4 +1,4 @@
-# BirthdayPlanner
+# Birthdays
 
 Name of the project is Birthdays and it was made as a part of a college course "Web design and programming". Solution to the task is a website through which you can view all birthday parties and make your reservations.
 There are 4 types of users: 
